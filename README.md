@@ -79,7 +79,7 @@ Built scalable ETL workflows using PySpark and Databricks for processing and tra
 
 - GitHub: https://github.com/sahil-titto
 - LinkedIn: https://linkedin.com/in/sahil-titto
-- Portfolio: (Coming Soon)
+- Portfolio: https://sahil-titto.vercel.app/
 
 ---
 
